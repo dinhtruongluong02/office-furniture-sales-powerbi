@@ -92,4 +92,16 @@ SWITCH(TRUE(),
     customer[age] <= 55, "46-55",
     customer[age] <= 65, "56-65",
     "66-80"
-)
+),
+```
+---
+
+## 6. Data Visualization 
+
+<img width="1250" height="727" alt="Screenshot 2026-10-29 at 15 08 12" src="https://github.com/user-attachments/assets/72e66591-e6c7-4711-ae8d-c1b55457351e" />
+
+<img width="1246" height="714" alt="Screenshot 2026-10-29 at 15 21 59" src="https://github.com/user-attachments/assets/98958c99-e433-4663-88ee-09d39cb420ff" />
+
+
+
+
