@@ -4,6 +4,8 @@
 
 This project analyzes e-commerce order performance, customer demographics, sales trends, and order cancellations using a 12-month sample dataset.
 
+Link to the report (PowerBI Serive: https://app.powerbi.com/reportEmbed?reportId=c667c6e3-2537-40fe-bcb6-64065224b4e2&autoAuth=true&ctid=1dd71fe7-08b2-4aeb-aa8f-b276a64f6884)
+
 ---
 
 ## 1. Objective
