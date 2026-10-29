@@ -40,7 +40,10 @@ The analysis is based on five relational CSV tables covering the period from Sep
 
 ## 4. Data Model
 
-The project uses a standard star schema layout. Relationships are one-to-many from the dimension tables (`customer`, `product`, `payment`, `shipping`) to the central `orders` fact table, with filter direction flowing strictly from dimension to fact table.
+The project uses a standard star schema layout. Relationships are one-to-many from the dimension tables (`customer`, `product`, `payment`, `shipping`) to the central `orders` fact table, with filter direction flowing strictly from 
+dimension to fact table.
+
+<img width="1137" height="432" alt="Screenshot 2026-10-29 at 15 24 01" src="https://github.com/user-attachments/assets/3e21c93f-3759-4391-814e-6d76b9ec4c49" />
 
 ---
 
@@ -101,6 +104,7 @@ SWITCH(TRUE(),
 <img width="1250" height="727" alt="Screenshot 2026-10-29 at 15 08 12" src="https://github.com/user-attachments/assets/72e66591-e6c7-4711-ae8d-c1b55457351e" />
 
 <img width="1246" height="714" alt="Screenshot 2026-10-29 at 15 21 59" src="https://github.com/user-attachments/assets/98958c99-e433-4663-88ee-09d39cb420ff" />
+
 
 
 
